@@ -1,1 +1,1 @@
-[*click*](https://akeyblack.github.io/webprogbase-lab1/)
+[lab1-webprogbase](https://akeyblack.github.io/webprogbase-lab1/)
